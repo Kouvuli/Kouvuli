@@ -47,7 +47,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
