@@ -49,10 +49,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
- ![](https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg)
- 
- ![](https://github.com/Kouvuli/github-stats/blob/master/generated/languages.svg)
-
+<img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoangtien10051212%2Fhit-counter" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
 </a>
