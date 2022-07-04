@@ -46,7 +46,7 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg)
 
 <!--
