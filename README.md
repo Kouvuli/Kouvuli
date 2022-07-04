@@ -1,5 +1,11 @@
 ### Hi there 👋 , I'm Le Duc Tam
 
+<div align=center>
+  <a width="480" height="480"href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
+  <img src="https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg">
+  
+    
+</div>
 - I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS)
 - I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 
@@ -42,11 +48,8 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align=center>
-  <a width="480" height="480"href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
-  <img src="https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **Kouvuli/Kouvuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
