@@ -47,6 +47,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Stats:
+<p align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github.com/Kouvuli/github-stats/blob/master/generated/languages.svg">
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kouvuli&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
