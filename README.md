@@ -49,13 +49,13 @@
 ### Stats:
 <h3 align="left">Github status:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&theme=react&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&theme=dark&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
 
 
 <h3 align="left">Leetcode status:</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kouvuli)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kouvuli&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **Kouvuli/Kouvuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
