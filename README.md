@@ -47,12 +47,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Stats:
-
-
+Github status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
 
-
+Leetcode status:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kouvuli&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **Kouvuli/Kouvuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
