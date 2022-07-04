@@ -48,7 +48,13 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg)
 
+ ![](https://github.com/Kouvuli/github-stats/blob/master/generated/overview.svg)
+ 
+ ![](https://github.com/Kouvuli/github-stats/blob/master/generated/languages.svg)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
+</a>
 <!--
 **Kouvuli/Kouvuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
