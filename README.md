@@ -3,7 +3,7 @@
 
 <div align=center>
   <a style="width:20; height:20; object-fit:cover" href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
- 
+  <img src="https://komarev.com/ghpvc/?username=asgreen2000&label=Profile%20views&color=0e75b6&style=flat"alt="adam-pw" />
 </div>
 
 
