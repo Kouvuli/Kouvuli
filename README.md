@@ -2,7 +2,7 @@
 <h3 align="center"> I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS) </h3>
 
 <div align=left>
-  <img src="https://komarev.com/ghpvc/?username=asgreen2000&label=Profile%20views&color=0e75b6&style=flat"alt="adam-pw" />
+  <img src="https://komarev.com/ghpvc/?username=Kouvuli&label=Profile%20views&color=0e75b6&style=flat"alt="adam-pw" />
 </div>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
