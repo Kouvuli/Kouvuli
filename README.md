@@ -1,12 +1,12 @@
 ### Hi there 👋 , I'm Le Duc Tam
 
+- I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS)
+- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 <div align=center>
   <a style="width:480; height:480" href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
  
 </div>
-- I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS)
 
-- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 
 ### Connect with me:
 
