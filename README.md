@@ -49,9 +49,9 @@
 ### Stats:
 <h3 align="left">Github status:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&theme=dark&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouvuli&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
 
 
 <h3 align="left">Leetcode status:</h3>
