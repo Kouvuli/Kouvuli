@@ -1,7 +1,6 @@
-### Hi there 👋 , I'm Le Duc Tam
+<h1 align="center">Hi 👋, I'm Le Duc Tam.</h1>
+<h3 align="center"> I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS) </h3>
 
-- I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS)
-- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 <div align=center>
   <a style="width:20; height:20; object-fit:cover" href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
  
@@ -44,9 +43,9 @@
 
 ### Databases:
 
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouvuli&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
