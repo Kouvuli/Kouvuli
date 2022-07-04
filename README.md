@@ -3,12 +3,12 @@
 - I’m currently a Senior Student at Ho Chi Minh University of Science (HCMUS)
 - I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 <div align=center>
-  <a style="width:480; height:480" href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
+  <a style="width:480; height:480; object-fit:cover" href='https://www.linkpicture.com/view.php?img=LPic623685b133327247191953'><img src='https://www.linkpicture.com/q/Artboard-1_21.png' type='image'></a>
  
 </div>
 
 
-### Connect with me:
+### Contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldtam.110201@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tam.leduc.3150/)
